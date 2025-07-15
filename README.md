@@ -1,4 +1,4 @@
-#vLLM-Based High-Level Robot Control
+# LLM-Based High-Level Robot Control
 
 This project explores the integration of **Large Language Models (LLMs)** into robotic high-level planning systems. By combining natural language understanding with action feasibility checks, visual perception, and spatial reasoning, it enables intuitive, zero-shot robot control using plain English instructions.
 
